@@ -1,5 +1,5 @@
 # LayoutLearning
 
-Android Development / Java Tutorials - Lesson 5
+Android Development / Java Tutorial - Lesson 5
 
 Layouts
